@@ -12,18 +12,16 @@ h1 {
     color: #de1a57;
 }
 
-span {
-    color: white;
+.jaceofig {
+    display: inline-block;
+    margin: 0 auto;
 }
 
-.jaceo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.jaceoimg {
+    vertical-align: top;                 
 }
 
-.caption {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+.jaceocap {
+    text-align: center;
+    color: #de1a57;
 }
