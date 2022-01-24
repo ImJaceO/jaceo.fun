@@ -1,4 +1,17 @@
-body {background-color: #222; font-family: Verdana;}
-        h1 {color: white;}
-        .title {text-align: center; color: #de1a57;}
-        span {color: white;}
+body {
+    background-color: #222; 
+    font-family: Verdana;
+}
+
+h1 {
+    color: white;
+}
+
+.title {
+    text-align: center; 
+    color: #de1a57;
+}
+
+span {
+    color: white;
+}
