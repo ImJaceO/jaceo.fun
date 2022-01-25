@@ -8,16 +8,11 @@ body {
     color: #de1a57;
 }
 
-.jaceofig {
-    display: inline-block;
-    margin: 0 auto;
-}
-
 .jaceoimg {
-    vertical-align: top;                 
+    vertical-align: top;               
 }
 
-.jaceocap {
+.jaceofig {
     text-align: center;
     color: #de1a57;
 }
