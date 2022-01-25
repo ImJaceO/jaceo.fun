@@ -3,6 +3,10 @@ body {
     font-family: Verdana;
 }
 
+.buttons {
+    text-align: center;
+}
+
 .title {
     text-align: center; 
     color: #de1a57;
