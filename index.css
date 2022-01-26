@@ -12,6 +12,7 @@ button {
     font-size: large;
     display: inline-block;
     width: 20%;
+    min-width: 10%;
 }
 
 .coop {
