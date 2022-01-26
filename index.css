@@ -16,14 +16,17 @@ button {
 
 .youtube:hover {
     background-color: #FF0000;
+    color: white;
 }
 
 .twitter:hover {
     background-color: #1DA1F2;
+    color: white;
 }
 
 .twitch:hover {
     background-color: #6441a5;
+    color: white;
 }
 
 .centerdiv {
