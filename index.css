@@ -3,8 +3,18 @@ body {
     font-family: Verdana;
 }
 
-.buttons {
-    text-align: center;
+
+
+button {
+    background-color: #de1a57;
+    color: #222;
+    border: none;
+    padding: 15px 32px;
+    font-size: large;
+}
+
+.centerdiv {
+    text-align: center
 }
 
 .title {
