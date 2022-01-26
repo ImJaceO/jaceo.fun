@@ -4,7 +4,7 @@ body {
 }
 
 button {
-    background-color: #de1a57;
+    background-color: #00de48;
     color: #222;
     border: none;
     border-radius: 12px;
@@ -35,7 +35,7 @@ button {
 
 .title {
     text-align: center; 
-    color: #de1a57;
+    color: #00de48;
 }
 
 .jaceoimg {
@@ -44,5 +44,5 @@ button {
 
 .jaceofig {
     text-align: center;
-    color: #de1a57;
+    color: #00de48;
 }
