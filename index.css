@@ -48,8 +48,11 @@ button {
 }
 
 .title {
-    text-align: center; 
     color: #de1a57;
+    border: #222;
+    border-style: solid ;
+    background-color: #222;
+    text-align: center;
 }
 
 .jaceoimg {
