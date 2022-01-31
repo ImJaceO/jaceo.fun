@@ -56,7 +56,10 @@ button {
 }
 
 .jaceoimg {
-    vertical-align: top;           
+    vertical-align: top;
+    border-style: solid;
+    border-radius: 50%;
+    border-color: #222;
 }
 
 .jaceofig {
