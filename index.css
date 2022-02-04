@@ -24,10 +24,6 @@ button {
     min-width: 12%;
 }
 
-.coop {
-    text-align: center;
-}
-
 .youtube:hover {
     background-color: #FF0000;
     color: white;
@@ -43,7 +39,7 @@ button {
     color: white;
 }
 
-.centerdiv {
+.center {
     text-align: center
 }
 
@@ -62,13 +58,8 @@ button {
     border-color: #222;
 }
 
-.jaceofig {
-    text-align: center;
+.jaceocap {
     color: #de1a57;
-}
-
-.beaver {
-    text-align: center;
 }
 
 @-webkit-keyframes rainbow {
