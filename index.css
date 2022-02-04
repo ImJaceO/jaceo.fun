@@ -24,6 +24,11 @@ button {
     min-width: 12%;
 }
 
+header {
+    background-color: #222;
+    padding: 20px;
+}
+
 .youtube:hover {
     background-color: #FF0000;
     color: white;
