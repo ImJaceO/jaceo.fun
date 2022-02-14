@@ -3,13 +3,13 @@
 body {
     margin: 0;
     padding: 0;
-    background: linear-gradient(-45deg, #de1a57, #222, #de1a57);
+    background: linear-gradient(-45deg, #de1a57, #111, #de1a57);
     font-family: 'Source Code Pro', monospace;
 }
 
 button {
     background-color: #de1a57;
-    color: #222;
+    color: #111;
     border: none;
     border-radius: 20px;
     padding: 15px 32px;
@@ -20,7 +20,7 @@ button {
 }
 
 header {
-    background-color: #222;
+    background-color: #111;
     padding: 20px;
 }
 
@@ -45,9 +45,9 @@ header {
 
 .title {
     color: #de1a57;
-    border: #222;
-    border-style: solid ;
-    background-color: #222;
+    border: #111;
+    border-style: solid;
+    background-color: #111;
     text-align: center;
 }
 
@@ -55,7 +55,7 @@ header {
     vertical-align: top;
     border-style: solid;
     border-radius: 50%;
-    border-color: #222;
+    border-color: #111;
 }
 
 .jaceocap {
