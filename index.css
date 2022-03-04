@@ -1,20 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
 
 body {
-    margin: 0;
-    padding: 0;
     font-family: 'Source Code Pro', monospace;
 }
 
 #bg {	
-	position:fixed;
+    position:fixed;
 	background: cover;
-  background: linear-gradient(145deg, #192839 50%, #1ab4e2 115%);
-  width: auto;
-  height: auto;
+    background: linear-gradient(145deg, #192839 50%, #1ab4e2 115%);
+    width: auto;
+    height: auto;
 	margin: 0;
-  padding: 0;
-  z-index: -2;
+    padding: 0;
+    z-index: -2;
 }
 
 button {
