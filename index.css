@@ -3,15 +3,26 @@
 body {
     margin: 0;
     padding: 0;
-    background: linear-gradient(-45deg, #00de48, #111, #00de48);
     font-family: 'Source Code Pro', monospace;
+}
+
+#bg {	
+	position:fixed;
+	background: cover;
+  background: linear-gradient(145deg, #192839 50%, #1ab4e2 115%);
+  width: auto;
+  height: auto;
+	margin: 0;
+  padding: 0;
+  z-index: -2;
 }
 
 button {
     background-color: #00de48;
     color: #111;
     border: none;
-    border-radius: 20px;
+    border-width: 2px;
+    border-radius: 30px;
     padding: 15px 32px;
     font-size: large;
     display: inline-block;
@@ -53,9 +64,9 @@ header {
 
 .jaceoimg {
     vertical-align: top;
-    border-style: solid;
+    border-style: none;
     border-radius: 50%;
-    border-color: #111;
+    box-shadow: 0px 0px 10px #00de48;
 }
 
 .jaceocap {
