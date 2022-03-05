@@ -40,6 +40,11 @@ header {
     color: white;
 }
 
+.github:hover {
+    background-color: #25292f;
+    color: white;
+}
+
 .center {
     text-align: center
 }
