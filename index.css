@@ -54,9 +54,11 @@ header {
 
 .jaceoimg {
     vertical-align: top;
-    border-style: none;
+    border-style: solid;
+    border-color: #111;
+    border-width: 5px;
     border-radius: 50%;
-    box-shadow: 0px 0px 10px #00de48;
+    box-shadow: 0px 0px 20px #00de48;
 }
 
 .jaceocap {
